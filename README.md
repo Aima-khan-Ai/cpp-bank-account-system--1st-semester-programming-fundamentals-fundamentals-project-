@@ -1,4 +1,4 @@
-# # Bank Account System (C++)
+# Bank Account System (C++)
 
 This is my 1st Semester Project for Programming Fundamentals subject made in C++.
 This project was made by Aima.
